@@ -1,0 +1,12 @@
+
+\.vs/
+
+Debug/
+
+STREAM_TEST/
+
+*.user
+
+*.filters
+
+GL_ENGINE_0/include/glm-0\.9\.9\.4\.zip
